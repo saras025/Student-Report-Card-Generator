@@ -28,6 +28,7 @@ average marks =  total sum of marks in all subjects / number of subjects
 
 #using ifs formula to calculate the grade 
 = IFS(F2>=80,"A",F2>=60,"B",F2>=40,"C",F2<=40,"F")
+
 *conditional formating
 mark the students  with A grade by GREEN i.e top and RED  for  students who got F grade i.e failed 
 ![Screenshot 2025-06-02 184059](https://github.com/user-attachments/assets/20c0d873-52d7-4cc8-9705-7888317f8d80)
